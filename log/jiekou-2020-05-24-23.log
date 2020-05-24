@@ -1,0 +1,9 @@
+[2020-05-24 23:19:46.877077] INFO: jiekou: 当前模块 解析测试用例文件
+[2020-05-24 23:19:46.878077] INFO: jiekou: 全部args参数参数信息 , ('D:\\Api_Test\\test_case_data\\dubbocase.xlsx',)
+[2020-05-24 23:19:46.879077] INFO: jiekou: 全部kwargs参数信息 , {}
+[2020-05-24 23:19:47.077962] INFO: jiekou: 当前模块 解析测试用例文件
+[2020-05-24 23:19:47.077962] INFO: jiekou: 全部args参数参数信息 , ('D:\\Api_Test\\test_case_data\\dubbocase.xlsx',)
+[2020-05-24 23:19:47.077962] INFO: jiekou: 全部kwargs参数信息 , {}
+[2020-05-24 23:19:47.097953] INFO: jiekou: 当前模块 dubbo接口测试
+[2020-05-24 23:19:47.097953] INFO: jiekou: 全部args参数参数信息 , ()
+[2020-05-24 23:19:47.098950] INFO: jiekou: 全部kwargs参数信息 , {}

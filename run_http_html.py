@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author  : leizi
 import os,datetime,time
 from testCase.case import testinterface
 from Public.py_Html import createHtml

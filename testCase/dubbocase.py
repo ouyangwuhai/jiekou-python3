@@ -1,8 +1,3 @@
-""" 
-@author: lileilei
-@file: dubbocase.py 
-@time: 2018/3/29 12:47 
-"""
 from Interface.dubbo_feng import DubboInterface
 from Public.log import LOG,logger
 from Public.panduan import assert_in

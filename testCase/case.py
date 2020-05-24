@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2017/6/4 20:15
-# @Author  : lileilei
-# @File    : case.py
 from Interface.testFengzhuang import TestApi
 from Public.get_excel import datacel
 from Public.log import LOG, logger

@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author  : leizi
 import os,datetime,time
 from testCase.dubbocase import testdubbointerface
 from Public.py_Html import createHtml

@@ -1,13 +1,9 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2017/6/4 20:35
-# @Author  : lileilei
-# @File    : get_excel.py
 import xlrd
 from Public.log  import LOG,logger
 @logger('解析测试用例文件')
-def datacel(filrpath):
+def datacel(filepath):
     try:
-        file=xlrd.open_workbook(filrpath)
+        file=xlrd.open_workbook(filepath)
         me=file.sheets()[0]
         nrows=me.nrows
         listid=[]
